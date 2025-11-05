@@ -6,6 +6,3 @@ resource "aws_instance" "name" {
   }
 
 }
-
-
-#example command terraform import aws_instance.name i-0f805ae729b101f2f
